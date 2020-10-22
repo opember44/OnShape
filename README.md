@@ -1,6 +1,8 @@
 # OnShape
 ## Caster
-
+![My Caster Screenshot](images/caster.png)
+#### Reflection
+In this assignment I had to make a base, mount, fork, tire, wheel, axel, collar, and bearings then assemble them. This assignment taught me all the basic skills I needed to know to use OnShape, I think Onshape is easier and faster to use than Solidworks but the mates are slightly more confusing.
 ## OnShape Challenge
 ![My Onshape Challenge Screenshot](images/onshape%20challenge%20.png)
 #### Reflection
