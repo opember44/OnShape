@@ -3,25 +3,32 @@
 ### Base
 ![Caster base Screenshot](images/base.png)
 #### Reflection
+This assignment taught me the ohshape basics and keyboard shortcuts.
 ### Mount
 ![Caster mount Screenshot](images/mount.png)
 #### Reflection
+This assignment taught me how to make a seperate part studio in a document that already has a part in it.
 ### Fork
 ![Caster fork Screenshot](images/fork.png)
 #### Reflection
+This assigment taught me how to use chamfers, filets, and mirrors.
 ### Tire
 ![Caster tire Screenshot](images/tire.png)
 #### Reflection
+This assignment tuaght me how to revolve in onshape.
 ### Wheel and Bearing
 ![Caster wheel Screenshot](images/wheel.png)
 #### Reflection
+In this assignemnt I learned how to use a circular pattern. I also thougt building an wheel on onshape was much easier than building a wheel on solidworks.
 ### Axel, Collar, Bearings
 ![Caster axle Screenshot](images/axle.png)
 ![Caster bearing Screenshot](images/bearing.png)
 #### Reflection
+This assignment taught me how to use the "use" feature which lets you build two parts in one part studio.
 ### Sub-Assembly
 ![Caster subassem Screenshot](images/subassem.png)
 #### Reflection
+This assignment taught me how to use fasten and revolute mates.
 ### Final Caster Assembly
 ![My Caster Screenshot](images/caster.png)
 #### Reflection
