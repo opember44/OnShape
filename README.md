@@ -16,6 +16,8 @@
 ![Caster wheel Screenshot](images/wheel.png)
 #### Reflection
 ### Axel, Collar, Bearings
+![Caster axle Screenshot](images/axle.png)
+![Caster bearing Screenshot](images/bearing.png)
 #### Reflection
 ### Sub Assembly
 #### Reflection
