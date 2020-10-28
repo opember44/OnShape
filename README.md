@@ -12,7 +12,8 @@
 ### Tire
 ![Caster tire Screenshot](images/tire.png)
 #### Reflection
-### Wheel
+### Wheel and Bearing
+![Caster wheel Screenshot](images/wheel.png)
 #### Reflection
 ### Axel, Collar, Bearings
 #### Reflection
