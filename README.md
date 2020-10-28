@@ -19,7 +19,8 @@
 ![Caster axle Screenshot](images/axle.png)
 ![Caster bearing Screenshot](images/bearing.png)
 #### Reflection
-### Sub Assembly
+### Sub-Assembly
+![Caster subassem Screenshot](images/subassem.png)
 #### Reflection
 ### Final Caster Assembly
 ![My Caster Screenshot](images/caster.png)
