@@ -10,6 +10,7 @@
 ![Caster fork Screenshot](images/fork.png)
 #### Reflection
 ### Tire
+![Caster tire Screenshot](images/tire.png)
 #### Reflection
 ### Wheel
 #### Reflection
